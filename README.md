@@ -1,7 +1,7 @@
 # JS Cheat Sheet
 Useful snippets for programming JavaScript.
 
-## Detecting if an object is an array.
+### Detecting if an object is an array.
 ```javascript
 Array.isArray( objName ); // returns true or false (Boolean)
 ```
